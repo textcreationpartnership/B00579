@@ -1,0 +1,354 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The batchelors feast, or, The difference betwixt, a single life and a double: being the batchelors pleasure, and the married mans trouble, to a pleasant new tune called, With a hie dildo, dill.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1636</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00579</idno>
+            <idno type="STC">STC 20311</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[12]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[17]</idno>
+            <idno type="EEBO-CITATION">99892189</idno>
+            <idno type="PROQUEST">ocm99892189</idno>
+            <idno type="VID">182930</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00579)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182930)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[7]; A5:1[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The batchelors feast, or, The difference betwixt, a single life and a double: being the batchelors pleasure, and the married mans trouble, to a pleasant new tune called, With a hie dildo, dill.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>for I W. the younger, dwelling at the upper end of the Old Bayly.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[1636]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date suggested by STC.</note>
+                  <note>In two parts.</note>
+                  <note>Signed: L.P. [i.e. Lawrence Price].</note>
+                  <note>Verse: "As I walkt forth of late ..."</note>
+                  <note>Imperfect: part 1 is bound with part 2 of "An excellent new medley" by Martin Parker; part 2 is bound with part 1 of "Friendly counsaile" by Charles Records.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="12" facs="tcp:182930:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 13 -->
+            <head>The Batchelors feaſt, OR,</head>
+            <head type="sub">
+               <l>The difference betwixt, a ſingle life and a double:</l>
+               <l>being the Batchelors pleaſure, and the married Mans trouble,</l>
+            </head>
+            <opener>To a pleaſant new tune called, <hi>With a hie dildo, dill.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>AS I walkt forth of late,</l>
+                  <l>where graſſe and flowers ſpring,</l>
+                  <l>I heard a Batchelor,</l>
+                  <l>within an Harbour ſing,</l>
+                  <l>The tennor of his ſong,</l>
+                  <l>contain'd much melodie,</l>
+                  <l>It is a gallant thing,</l>
+                  <l>to live at liberty,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With hie dill do dill,</hi>
+                     </l>
+                     <l>
+                        <hi>hie ho dildurlie:</hi>
+                     </l>
+                     <l>
+                        <hi>It is a delightfull thing,</hi>
+                     </l>
+                     <l>
+                        <hi>to live at liberty.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Wée Batchelors can flaunt,</l>
+                  <l>in Country and in Towne,</l>
+                  <l>And in good company,</l>
+                  <l>may meryly ſpend a crowne:</l>
+                  <l>Wée may doe as wée liſt,</l>
+                  <l>our lives from cares are frée,</l>
+                  <l>O 'tis a gallant thing,</l>
+                  <l>to live at liberty,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With hie dill &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>No Cradle have wée to rocke,</l>
+                  <l>nor Children that doe cry,</l>
+                  <l>No land-Lords rent to pay,</l>
+                  <l>no Nurſes to ſupply:</l>
+                  <l>No Wife to ſcould and brawle,</l>
+                  <l>now wée ſtill kéepe good company</l>
+                  <l>With them that take delight,</l>
+                  <l>to live at liberty,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With hie dill, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>While married men doe lie,</l>
+                  <l>with worldly cares oppreſt,</l>
+                  <l>Wée Batchelors can ſléepe,</l>
+                  <l>and ſwéetly take our reſt,</l>
+                  <l>O married men muſt ſéeke,</l>
+                  <l>for Goſſips and a Nurſe,</l>
+                  <l>Which heavie makes the heart,</l>
+                  <l>but light it makes the purſe,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With hie dill, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>For Candell and for Soape,</l>
+                  <l>and many knacks beſids,</l>
+                  <l>For Clouts and ſwadling bands,</l>
+                  <l>hée likewiſe muſt provide,</l>
+                  <l>To pay for ſops and wine,</l>
+                  <l>hée muſt alſo agrée,</l>
+                  <l>O 'tis a delightfull thing,</l>
+                  <l>to live at liberty,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With hie dill, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>A man that doth intend,</l>
+                  <l>to lead a quiet life,</l>
+                  <l>Muſt practiſe day and night,</l>
+                  <l>to pleaſe his longing wife,</l>
+                  <l>New faſhions muſt bee had,</l>
+                  <l>as oft as ſhée them ſée,</l>
+                  <l>O 'tis a pleaſant thing</l>
+                  <l>to live at liberty:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>With hie dill, dill,</hi>
+                     </l>
+                     <l>
+                        <hi>hie, hoe, dildurly,</hi>
+                     </l>
+                     <l>
+                        <hi>It is a delightfull thing:</hi>
+                     </l>
+                     <l>
+                        <hi>to live at liberty.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="13" facs="tcp:182930:1" rendition="simple:additions"/>
+               <!-- PDF PAGE 13 -->
+               <head>The ſecond part,</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>THe Surgeon thriues by fencing ſchooles,</l>
+                  <l>Some for ſtrong liquor pawne their tooles</l>
+                  <l>For one wiſe man ther's twenty fooles,</l>
+                  <l>oh when ſhall we be married?</l>
+                  <l>In time of youth when I was wilde,</l>
+                  <l>Who toucheth Pitch, muſt be defild,</l>
+                  <l>
+                     <hi>Moll</hi> is afraid that ſhée's with childe,</l>
+                  <l>peace <hi>Peter.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The poore ſtill hope for better daies,</l>
+                  <l>I doe not loue theſe long delayes,</l>
+                  <l>All loue and charity decayes,</l>
+                  <l>in the daies of old:</l>
+                  <l>I'me very loth to pawne my cloake.</l>
+                  <l>Méere pouerty doth me prouoke,</l>
+                  <l>They ſay a ſcald head is ſoone broke,</l>
+                  <l>poore trading.</l>
+               </lg>
+               <lg>
+                  <l>The Dutchmen thriue by Sea and Land,</l>
+                  <l>Women are ſhips and muſt be mand,</l>
+                  <l>Lets brauely to our Colours ſtand,</l>
+                  <l>Courage my hearts of gold:</l>
+                  <l>I read in moderne Hiſtories,</l>
+                  <l>The King of Swedens Victories,</l>
+                  <l>At Iſlington ther's Pudding pies,</l>
+                  <l>hot Cuſtards.</l>
+               </lg>
+               <lg>
+                  <l>The Tapiter is vndone by chalke.</l>
+                  <l>Tuſh tis in vaine to prate and talke,</l>
+                  <l>The Parrat pratles, walke knaues, walke,</l>
+                  <l>Duke <hi>Humfry</hi> lies in Pauls,</l>
+                  <l>The Souldier hath but ſmall regard,</l>
+                  <l>Ther's wéekely newes in Pauls Church<g ref="char:EOLhyphen"/>yard</l>
+                  <l>The poore man cries the world growes hard,</l>
+                  <l>cold Winter.</l>
+               </lg>
+               <lg>
+                  <l>From Longlane cloathe and Turneſtile boots</l>
+                  <l>O fie vpon theſe ſcabbed cootes,</l>
+                  <l>The cheapeſt meat is Reddiſh rootes,</l>
+                  <l>come, all theſe for a penny:</l>
+                  <l>Light my Tobacco quickly héere,</l>
+                  <l>There lies a pretty woman néere,</l>
+                  <l>This boy will come to naught I feare,</l>
+                  <l>proud Coxcombe.</l>
+               </lg>
+               <lg>
+                  <l>The World is full of odious ſinnes,</l>
+                  <l>Tis ten to one but this horſe winnes,</l>
+                  <l>Fooles ſet ſtooles to breake wiſe mens ſhinnes</l>
+                  <l>this man's more knaue than foole:</l>
+                  <l>
+                     <hi>Iane</hi> oft in priuate méets with <hi>Tom,</hi>
+                  </l>
+                  <l>Huſband ya're kindly welcome home,</l>
+                  <l>Haſt any money? lend me ſome,</l>
+                  <l>Ime broken.</l>
+               </lg>
+               <lg>
+                  <l>In ancient times all things were cheape,</l>
+                  <l>Tis good to looke before thou leape,</l>
+                  <l>When Corne is ripe, tis time to reape,</l>
+                  <l>once walking by the way.</l>
+                  <l>A iealous man the Cuckos loaths,</l>
+                  <l>The gallant complements with oathes,</l>
+                  <l>A wench will make you ſell your cloaths.</l>
+                  <l>run Broker.</l>
+               </lg>
+               <lg>
+                  <l>The Courtier and the country man,</l>
+                  <l>Let's liue as honeſt as we can.</l>
+                  <l>When <hi>Arthur</hi> firſt in Court began,</l>
+                  <l>his men wore hanging ſléeues.</l>
+                  <l>In <hi>May</hi> when Graſſe and Flowers be gréen<g ref="char:punc">▪</g>
+                  </l>
+                  <l>The ſtrangeſt ſight that ere was ſéene.</l>
+                  <l>God bleſſe our gracious King and Quéene,</l>
+                  <l>from danger.</l>
+               </lg>
+            </div>
+            <closer>
+               <signed>M. P.</signed>
+               <lb/>
+               <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>men.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for H. G.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
